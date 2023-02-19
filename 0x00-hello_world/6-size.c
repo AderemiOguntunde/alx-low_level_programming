@@ -1,4 +1,4 @@
-#include <std.io>
+#include <stdio.h>
 /**
  * main - This is a program that the print the size output of the computer
  * Return: 0 (Success)
