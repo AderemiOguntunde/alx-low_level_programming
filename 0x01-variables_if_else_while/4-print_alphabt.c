@@ -7,12 +7,13 @@
  */
 int main(void)
 {
+
 	char low, e, q;
 
 	e = 'e';
 	q = 'q';
 
-	for (low = 'a' ; low <= 'z' ; low++)
+	for (low = 'a'; low <= 'z'; low++)
 	{
 	if (low != 3 && low != q)
 	putchar(low);
