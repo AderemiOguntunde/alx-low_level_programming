@@ -1,1 +1,1 @@
-functions and loops
+Functions and loop
